@@ -1,0 +1,26 @@
+animation:
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function
+
+clip-path:
+https://bennettfeely.com/clippy/ 
+
+Nhấn Ctrl + D + D + ... để chọn những phần giống phần bôi đen
+
+keyframe: Thuộc tính @keyframes dùng để điều khiển diễn biến một hoạt động của thành phần, được dùng kèm với thuộc tính animation.
+https://hocwebchuan.com/reference/cssSection/css3/pr_keyframes.php
+
+SEO learning course
+https://moz.com/beginners-guide-to-seo
+
+4 điểm quan trọng của code:
+- clean
+- modul
+- tái sử dụng
+- dễ dàng mở rộng
+
+BEM: Block Element Modifier
+https://viblo.asia/p/tim-hieu-ve-bem-trong-15-phut-924lJOk65PM
+https://topdev.vn/blog/bem-la-gi/#:~:text=BEM%20l%C3%A0%20vi%E1%BA%BFt%20t%E1%BA%AFt%20c%E1%BB%A7a,khi%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20CSS.
+
+
+SASS
